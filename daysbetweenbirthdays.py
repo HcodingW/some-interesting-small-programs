@@ -2,7 +2,7 @@
 """
 Created on Wed Jan 25 13:12:07 2017
 
-@author: wuhan
+@author: HW
 """
 
 # Credit goes to Websten from forums
